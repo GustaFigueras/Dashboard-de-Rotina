@@ -49,14 +49,8 @@ A seguir, algumas imagens da interface do Dashboard, que refletem o **grande foc
 
 Este projeto foi uma colaboração focada em excelência e usabilidade.
 
-| Nome | Função | Destaque |
-| :--- | :--- | :--- |
-| **Gustavo Figueiredo** | **Diretor & Arquiteto Chefe** | Visão central e liderança técnica. |
-| **Pedro Daniel** | **Diretor de Arte** | Responsável pelo design visual e UX/UI. |
-| *e demais colaboradores...* | | Estratégia, QA e Pesquisa de Conceitos. |
+| Nome  | Destaque |
+| :--- | :--- |
+| **Gustavo Figueiredo** | Visão central e liderança técnica. |
 
 ---
-
-
----
-```
