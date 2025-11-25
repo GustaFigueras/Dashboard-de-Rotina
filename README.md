@@ -51,10 +51,8 @@ Este projeto foi uma colaboração focada em excelência e usabilidade.
 | :--- | :--- | :--- |
 | **Gustavo Figueiredo** | **Diretor & Arquiteto Chefe** | Visão central e liderança técnica. |
 | **Pedro Daniel** | **Diretor de Arte** | Responsável pelo design visual e UX/UI. |
-| *e demais colaboradores...* | | Estratégia, QA e Pesquisa de Conceitos. |
 
 
 
 ---
 
-**© 2025 Todos os direitos reservados.**
