@@ -1,14 +1,14 @@
 ## ✨ Dashboard de Rotina Semanal
 
-Um projeto **Front-end puro** (HTML, Tailwind CSS, JavaScript Vanilla) focado em **organização, produtividade e bem-estar**. Esta aplicação *client-side* moderna utiliza uma interface interativa para rastrear e gerenciar sua rotina semanal de forma consistente.
+Um projeto **Front-end puro** (HTML, CSS, JavaScript) focado em **organização, produtividade e bem-estar**. Esta aplicação *client-side* moderna utiliza uma interface interativa para rastrear e gerenciar sua rotina semanal de forma consistente.
 
 ---
 
 ### 🚀 Visão Rápida e Status
 
-| Status do Projeto | Tecnologias | Licença |
-| :---------------- | :---------- | :------ |
-| **Em Desenvolvimento (Client-side)** | HTML, Tailwind CSS, JS (Vanilla) | MIT |
+| Status do Projeto | Tecnologias
+| :---------------- | :---------- 
+| **Em Desenvolvimento (Client-side)** | HTML, CSS, JS
 
 **Observação Importante:** Este projeto foca no desenvolvimento **client-side** e está em constante aprimoramento. Embora funcional, ele não é 100% completo e ainda existem funcionalidades futuras planejadas para expandir sua capacidade e abrangência.
 
@@ -39,9 +39,9 @@ A seguir, algumas imagens da interface do Dashboard, que refletem o **grande foc
 
 | Categoria | Tecnologia | Uso |
 | :--- | :--- | :--- |
-| **Design** | **Tailwind CSS** | Estilização rápida, responsiva e com foco em Dark Mode. |
-| **Lógica** | **JavaScript (Vanilla)** | Gerenciamento de estado, cálculos de saúde e toda a interatividade. |
-| **Estrutura** | **HTML5 & Phosphor Icons** | Estrutura semântica e ícones modernos. |
+| **Design** | **CSS** | Estilização rápida, responsiva e com foco em Dark Mode. |
+| **Lógica** | **JavaScript** | Gerenciamento de estado, cálculos de saúde e toda a interatividade. |
+| **Estrutura** | **HTML5** | Estrutura semântica e ícones modernos. |
 
 ---
 
