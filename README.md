@@ -1,4 +1,8 @@
 ## ✨ Dashboard de Rotina Semanal
+[![Status do Projeto](https://img.shields.io/badge/Status-Completo-brightgreen)](https://github.com/SEU_USUARIO/dashboard-de-rotina)
+[![Tecnologias](https://img.shields.io/badge/Tecnologias-HTML%20%7C%20Tailwind%20%7C%20JS%20(Vanilla)-blue)](https://github.com/SEU_USUARIO/dashboard-de-rotina)
+[![Licença](https://img.shields.io/badge/Licença-MIT-blue)](https://github.com/SEU_USUARIO/dashboard-de-rotina/blob/main/LICENSE)
+
 
 Um projeto **Front-end puro** (HTML, Tailwind CSS, JavaScript Vanilla) focado em **organização, produtividade e bem-estar**. Esta aplicação *client-side* moderna utiliza uma interface interativa para rastrear e gerenciar sua rotina semanal de forma consistente.
 
