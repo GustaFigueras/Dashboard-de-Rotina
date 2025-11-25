@@ -16,9 +16,9 @@ Um projeto **Front-end puro** (HTML, Tailwind CSS, JavaScript Vanilla) focado em
 
 ### 📸 Showcase do Projeto
 
-![Visão Geral do Dashboard de Rotina Semanal](https://i.imgur.com/KxZJ3hD.png)
+![Visão Geral do Dashboard de Rotina Semanal](https://cdn.discordapp.com/attachments/1442345720647651389/1442680360206078163/image.png?ex=69265049&is=6924fec9&hm=6ecf093e7e8a43644629c91b5a9a48b29b16470ec5cb1e01adf9ffd9e2380d50&)
 
-![Detalhe da Linha do Tempo do Dashboard](https://i.imgur.com/81Y7y5B.png)
+![Detalhe da Linha do Tempo do Dashboard](https://cdn.discordapp.com/attachments/1442345720647651389/1442680360659058882/image.png?ex=69265049&is=6924fec9&hm=05bb00ed9d68d420aae50cb4f0b9b836eace91fb4815f3b14a1565160edc61f3&)
 
 A seguir, algumas imagens da interface do Dashboard, que refletem o **grande foco no design e na experiência visual**, buscando ser intuitiva e agradável de usar.
 
